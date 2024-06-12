@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3162012334515329050}
   - component: {fileID: 3371369777239658818}
   m_Layer: 0
-  m_Name: H20 Poster
+  m_Name: H2O Poster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
